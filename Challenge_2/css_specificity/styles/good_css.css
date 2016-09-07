@@ -1,0 +1,18 @@
+h1 {
+	font-size: 48px;
+}
+li {
+	font-size: 32px;	
+}
+.gray{
+color: DarkGray;
+}
+.bold {
+	font-weight: bold;	
+}
+.cross{
+    text-decoration: line-through;
+}
+.navy {
+    color: Navy;
+}
