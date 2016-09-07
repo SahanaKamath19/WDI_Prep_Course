@@ -6,3 +6,13 @@ div{
     color: white;
     margin: 30px;
 }
+.image1{
+    background-color:  DarkGray;
+    height:200px;
+    padding: 10px;
+}
+.image2{
+   height:200px;
+   border:10px solid DarkGray;
+   display:block;
+}
