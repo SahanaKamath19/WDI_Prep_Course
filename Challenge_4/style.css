@@ -1,0 +1,21 @@
+.redBox{
+    width: 150px;
+    height: 150px;
+    margin: 0 20px 20px 0;
+    background-color: red;
+}
+.type1{
+    display: inline-block;
+}
+.type2{
+    float:left;
+}
+.type3{
+    position: absolute;
+}
+.box1{
+    margin-left: 170px;
+}
+.box2{
+    margin-left: 340px;
+}
