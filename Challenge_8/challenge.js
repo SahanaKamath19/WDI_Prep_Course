@@ -19,6 +19,18 @@ for (var i = 1; i <= 100; i++) {
 }
 
 //EXERCISE #4: 8*8 Grid
-
+var string = "";
+for (var x = 0; x < 8; x++) {
+  for (var y = 0; y < 8; y++) {
+    if((x+y)%2==0){
+      string += "#";
+      }
+  else{
+      string += " ";
+      }
+  }
+  string += "\n";
+}
+console.log(string);
 
 
