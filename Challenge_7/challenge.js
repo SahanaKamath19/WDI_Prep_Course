@@ -3,7 +3,7 @@
 var numberofreplys = 8;
 function ask(){
     var choice = Math.floor(Math.random() * numberofreplys +1);
-    var reply = 'You need to make some options using if/else'
+    var reply = 'You need to make some options using if/else';
     if(choice == 1){
         console.log("It is certain");
     }
