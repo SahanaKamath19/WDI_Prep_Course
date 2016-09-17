@@ -1,3 +1,4 @@
+/*Using switch statement*/
 var numberofreplys = 8;
 function ask(){
     var choice = Math.floor(Math.random() * numberofreplys +1);
